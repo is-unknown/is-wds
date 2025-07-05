@@ -1,6 +1,6 @@
 {
   "name": "@overkill/is-wds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is this string REALLY \"WDS\"?",
   "homepage": "https://github.com/is-unknown/is-wds#readme",
   "bugs": {
@@ -83,7 +83,6 @@
     "@salurusrinivasarao/is-wds-npm-srinivas": "^1.0.0",
     "@steins_ago/is-wds": "^1.0.0",
     "@teknari/is-wds": "^1.0.0",
-    "@thinkofvinoth/is-wds": "^2.0.0",
     "@tofuaner/is-wds": "^1.0.0",
     "@vincentpro/is-wds": "^1.0.0",
     "@web-dev-simplified/is-wds": "^1.0.0",

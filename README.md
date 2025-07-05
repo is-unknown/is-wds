@@ -1,6 +1,6 @@
 # `Is WDS`
 
-Check if a value is the string `"WDS"`, but with, as of 6/26/2025, every NPM package that contains the string `'is-wds'` in its package name and returns true if `"WDS"` is the input.
+Check if a value is the string `"WDS"`, but with, as of 6/26/2025, every NPM package that contains the string `'is-wds'` in its package name and returns true if `"WDS"` is the input. (except for @thinkofvinoth/is-wds, which installed like 1000 packages from lerna)
 
 ## `Installation`
 Install with your favorite package manager.
