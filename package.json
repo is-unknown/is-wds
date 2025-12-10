@@ -1,6 +1,6 @@
 {
   "name": "@overkill/is-wds",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Is this string REALLY \"WDS\"?",
   "homepage": "https://github.com/is-unknown/is-wds#readme",
   "bugs": {
@@ -67,7 +67,6 @@
     "@navaneethkv/is-wds": "^1.1.0",
     "@nik-55/is-wds": "^1.0.0",
     "@noucha/is-wds": "^1.0.0",
-    "@ohmspeed/is-wds22": "^1.1.2",
     "@onemole/is-wds": "^1.0.0",
     "@parsonsnguyen/is-wds": "^1.0.2",
     "@pijushchakma120/is-wds": "^1.0.0",
@@ -80,7 +79,6 @@
     "@rjvelazco/is-wds": "^1.0.1",
     "@robinob/is-wds": "^1.0.0",
     "@sakrambutt/is-wds": "^1.0.0",
-    "@salurusrinivasarao/is-wds-npm-srinivas": "^1.0.0",
     "@steins_ago/is-wds": "^1.0.0",
     "@teknari/is-wds": "^1.0.0",
     "@tofuaner/is-wds": "^1.0.0",
@@ -104,7 +102,6 @@
     "is-wds-99": "^1.0.0",
     "is-wds-9991": "^1.0.0",
     "is-wds-alina": "^1.0.0",
-    "is-wds-aman": "^1.0.0",
     "is-wds-ap": "^1.0.0",
     "is-wds-asiflhr": "^1.1.0",
     "is-wds-bart": "^1.0.0",

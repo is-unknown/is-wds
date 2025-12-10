@@ -46,8 +46,6 @@ console.log(isWDS('wds')) // false
 console.log(isWDS('anything else')) // false
 ```
 
-**IMPORTANT: When running isWDS, you will see two logs. They will say "ver 1.1.2", and "Hello from GITHub Pacakge registry". This is normal, because some isWDS packages that are used by this library log things automatically when their functions are called.**
-
 ## Tests
 To run tests, do a git clone and run npm test.
 
